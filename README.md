@@ -1,6 +1,6 @@
 # FlightPricePrediction
 Predicting flight prices using Multiple Linear Regression. Machine learning and statistics practice
-
+-While an overview can be seen by opening "Flight Price Prediction.ipynb" its interactive features will not be active. To use those, access the Quick Start Guide Below
 
 
 
